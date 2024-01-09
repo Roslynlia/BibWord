@@ -153,7 +153,7 @@
     <citation>
       <openbracket>[</openbracket>
       <closebracket>]</closebracket>
-      <separator>,</separator>
+      <separator>-</separator>
       <source type="Book">
         <format>{%RefOrder%}</format>
       </source>
